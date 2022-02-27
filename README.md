@@ -11,5 +11,3 @@ Ask me about .Net.
 How to reach me: [EMail](mailto:kevinhayesanderson@gmail.com), [Linkedin](https://www.linkedin.com/in/kevinhayesanderson/).
 
 My [GitHub](https://github.com/kevinhayesanderson).
-
-Website on development.
