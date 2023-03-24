@@ -6,6 +6,4 @@ I’m currently working on developing .Net applications.
 
 I’m currently learning development of cloud native apps.
 
-Ask me about .Net.
-
 How to reach me: [EMail](mailto:kevinhayesanderson@gmail.com), [Linkedin](https://www.linkedin.com/in/kevinhayesanderson/).
