@@ -19,17 +19,10 @@
                     href="Resume.pdf" target="_blank">Resume</a> & <a
                     href="https://www.credly.com/users/kevin-hayes-anderson" target="_blank">Credly profile</a>.</p>
 
-<details>	
-  <summary><b>Github Stats</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinhayesanderson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinhayesanderson&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>Github Streaks</b></summary>
-
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinhayesanderson&hide_border=true" />
-</details>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevinhayesanderson&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
