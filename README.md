@@ -16,7 +16,7 @@
                 <a href="https://www.linkedin.com/in/kevinhayesanderson/" target="_blank">Linkedin</a>.
             </p>
             <p class="lead fs-4">My <a href="https://github.com/kevinhayesanderson" target="_blank">GitHub</a>, <a
-                    href="Resume.pdf" target="_blank">Resume</a> & <a
+                    href="https://github.com/iampavangandhi/kevinhayesanderson/blob/master/Resume.pdf" target="_blank">Resume</a> & <a
                     href="https://www.credly.com/users/kevin-hayes-anderson" target="_blank">Credly profile</a>.</p>
 
 
