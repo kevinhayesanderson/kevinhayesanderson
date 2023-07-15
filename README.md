@@ -1,12 +1,23 @@
 ### Hi there 👋
 
-I'm Kevin Hayes Anderson, a .Net and Angular developer with 6 years of experiance.
-
-I’m currently working on developing .Net applications.
-
-I’m currently learning development of cloud native apps.
-
-How to reach me: [Email](mailto:kevinhayesanderson@gmail.com), [LinkedIn](https://www.linkedin.com/in/kevinhayesanderson/).
+<p class="lead lead fs-4">I'm Kevin Hayes Anderson, Senior software and cloud engineer with 6+ years of work
+                experience in agile enterprise software
+                development, cloud architecting, development in multiple and building apps with .NET and Angular
+                frameworks.</p>
+            <p class="lead lead fs-4">Experience
+                in Microsoft Azure Kubernetes Services. Azure App Services, Azure functions, Azure logic Apps Azure
+                Storage, Azure
+                Active Directory (AD), Cosmos DB / Document DB, API Gateway.</p>
+            <p class="lead lead fs-4">Experience performing continuous
+                integration and continuous
+                deployment using Azure DevOps.</p>
+            <p class="lead lead fs-4">Ask me about .Net, Azure and Cloud native applications.</p>
+            <p class="lead lead fs-4">How to reach me: <a href="mailto:kevinhayesanderson@gmail.com">EMail</a>,
+                <a href="https://www.linkedin.com/in/kevinhayesanderson/" target="_blank">Linkedin</a>.
+            </p>
+            <p class="lead fs-4">My <a href="https://github.com/kevinhayesanderson" target="_blank">GitHub</a>, <a
+                    href="Resume.pdf" target="_blank">Resume</a> & <a
+                    href="https://www.credly.com/users/kevin-hayes-anderson" target="_blank">Credly profile</a>.</p>
 
 <details>	
   <summary><b>Github Stats</b></summary>
