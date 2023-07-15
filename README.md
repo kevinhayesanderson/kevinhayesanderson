@@ -23,4 +23,4 @@
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinhayesanderson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinhayesanderson&show_icons=true&hide_border=true&layout=compact&theme=radical"/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevinhayesanderson&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kevinhayesanderson&theme=radical&date_format=j%20M%5B%20Y%5D"/>
