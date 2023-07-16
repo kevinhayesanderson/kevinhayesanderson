@@ -15,7 +15,7 @@
             <p class="lead lead fs-4">How to reach me: <a href="mailto:kevinhayesanderson@gmail.com">EMail</a>,
                 <a href="https://www.linkedin.com/in/kevinhayesanderson/" target="_blank">Linkedin</a>.
             </p>
-            <p class="lead fs-4">My <a href="https://github.com/kevinhayesanderson" target="_blank">GitHub</a>, <a
+            <p class="lead fs-4">My <a
                     href="https://github.com/kevinhayesanderson/kevinhayesanderson/blob/master/Resume.pdf" target="_blank">Resume</a> & <a
                     href="https://www.credly.com/users/kevin-hayes-anderson" target="_blank">Credly profile</a>.</p>
 
