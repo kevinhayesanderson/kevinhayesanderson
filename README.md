@@ -19,7 +19,7 @@
       <p class="lead fs-4">
         My
         <a class="link-info" href="https://github.com/kevinhayesanderson" target="_blank">GitHub</a>,
-        <a class="link-info" href="Resume-Kevin_Hayes_Anderson.pdf" target="_blank">Resume</a> &
+        <a class="link-info" href="Resume.pdf" target="_blank">Resume</a> &
         <a class="link-info" href="https://www.credly.com/users/kevin-hayes-anderson" target="_blank">Credly
           profile</a>.
       </p>
